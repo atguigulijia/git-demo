@@ -8,8 +8,8 @@ hello localstrore
 hello localstrore
 hello localstrore
 hello localstrore
-hello localstrore -master 
-hello localstrore 
+hello localstrore -master  
+hello localstrore -hotfix
 modify
 modify again
 hot-fix fixing
